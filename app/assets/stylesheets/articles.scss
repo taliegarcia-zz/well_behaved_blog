@@ -1,3 +1,34 @@
 // Place all the styles related to the articles controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+
+.article-title, .article-body {
+  padding-left: 0.7em;
+}
+
+.article-title {
+  font-weight: bold;
+  font-size: 2.5em;
+  margin-bottom: 0.8em;
+}
+
+.article-body {
+  font-size: 1.5em;
+}
+
+#new-article-btn {
+  margin-bottom: 10px;
+}
+
+#article-date {
+  margin-bottom: 2em;
+}
+
+.article-detail-title {
+  font-size: 4em;
+  margin-bottom: 1em;
+}
+
+.article-actions {
+  margin: 2em 0 2em 0;
+}
