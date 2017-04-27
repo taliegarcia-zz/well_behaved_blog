@@ -4,4 +4,5 @@ A Blog App following Ruby on Rails BDD Principles
 
 Using RSpec, Capybara, Guard, Devise
 
-<tt>rake doc:app</tt>.
+<tt>bundle install</tt>.
+run rails server.
